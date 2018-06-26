@@ -1,0 +1,68 @@
+.box{
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+.box img{
+    width: 100%;
+    height: auto;
+    transition: all 0.35s ease 0s;
+}
+.box:hover img{ transform: translateX(25%); }
+.box .box-content{
+    width: 43%;
+    height: 100%;
+    background: url('../img/BG.jpg');
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.35s ease 0s;
+}
+.box:hover .box-content{ opacity: 1; }
+.box .icon{
+    width: 100%;
+    padding:0;
+    margin: 0;
+    list-style: none;
+    position: absolute;
+    top: -100%;
+    left: 0;
+    transition: all 0.35s ease 0s;
+}
+.box:hover .icon{ top: 35%; }
+.box .icon li{ display: inline-block;}
+.box .icon li a{
+    margin: auto;
+    display: block;
+    width: 45px;
+    height: 45px;
+    /*line-height: 40px;*/
+    border-radius: 50%;
+    font-size: 28px;
+    color: #fff;
+    border: 2px solid #fff;
+    margin-right: -1px; 
+    margin-top: 25px;
+    transition: all 0.35s ease 0s; 
+}
+.box .icon li a:hover{
+    background: #fff;
+    color: black;
+}
+.box .title{
+    width: 100%;
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: -100%;
+    transition: all 0.35s ease 0s;
+    
+}
+.box:hover .title{ bottom: 60%; }
+@media only screen and (max-width:990px){
+    .box{ margin-bottom: auto; }
+}
+

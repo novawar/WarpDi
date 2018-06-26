@@ -1,0 +1,5 @@
+ErrorDocument 400 /WarpDi/my_404.php
+ErrorDocument 401 /WarpDi/my_404.php
+ErrorDocument 403 /WarpDi/my_404.php
+ErrorDocument 404 /WarpDi/my_404.php
+ErrorDocument 500 /WarpDi/my_404.php

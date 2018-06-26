@@ -1,0 +1,180 @@
+
+
+body {
+  background: white no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+
+  /*filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); /* IE */
+  
+  /*-webkit-filter: grayscale(1); /* Chrome, Safari */
+  
+ /*filter: grayscale(1); /* Firefox */
+
+}
+.bg-banner { /*#1ab188*/
+  background:#1ab188;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.bg-ban-2 { 
+  background:white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.bg-ban-3 { 
+  background:#1ab188;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.FlexEmbed {
+  background: #f2f2f2 no-repeat center center fixed;
+  display: block;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 70px;
+    background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.navbar-fixed-top {
+  top: 70px;
+}
+
+.bg-1 {
+  background-color: #333;
+}
+
+.bg-2 {
+  background-color:  #f2f2f2;
+}
+
+.bg-code {
+  background-color:  #122b3b;
+}
+
+
+/*-------------------------------------------------------- Ribbon------------------------------------------------------------------*/
+
+.black-ribbon {
+  position: fixed;
+  z-index: 9999;
+  width: 70px;
+}
+@media only all and (min-width: 768px) {
+  .black-ribbon {
+    width: auto;
+  }
+}
+
+.stick-left { left: 0; }
+.stick-right { right: 0; }
+.stick-top { top: 0; }
+.stick-bottom { bottom: 0; }
+
+
+/*----------------------------------------------------------switch---------------------------------------------------------*/
+
+.turnedOff {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); /* IE */
+  
+  -webkit-filter: grayscale(1); /* Chrome, Safari */
+  
+ filter: grayscale(1); /* Firefox */
+}
+
+.navbar {  /*shadow navbar*/
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+
+  /* the rest of your styling */
+}
+
+
+.pad{
+  padding-top: -10px;
+  padding-bottom: 100px;
+}
+
+
+
+.button-yel{
+  background-color: #ffc107;
+}
+
+.button-green{
+  background-color: #1ab188;
+}
+
+
+.cur tr {
+  cursor: pointer;
+}
+
+.cur button {
+  cursor: pointer;
+}
+
+.txt-p {
+  font-size: 2rem;
+}
+
+.boxhead a {
+  color: black;
+  text-decoration: none;
+}
+
+.cont-hero{
+  background-color: #868e96;
+}
+
+.com-bg-2 {
+  background-color:white;
+}
+
+.com-bg {
+  background-color: #FAFAFA;
+}
+
+.txt-sm {
+  font-size: 70%;
+}
+
+
+
+.shadow-dark {  /*shadow navbar*/
+  /*-webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow:  6px 6px 6px -3px #999;*/
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  
+
+  /* the rest of your styling */
+}
+
+.shadow-dark-com {  /*shadow navbar*/
+  /*-webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 4px 4px 4px -3px #999;*/
+  box-shadow: 0 2px 2px 2px rgba(19, 35, 47, 0.3);
+  
+
+  /* the rest of your styling */
+}
+
+  

@@ -1,0 +1,36 @@
+.a {
+    color : whitesmoke;
+    font-family: 'Athiti', sans-serif;
+  }
+  
+/* ใช้ทั้งเว็บไซต์ */
+body {
+    color : whitesmoke;
+    font-family: 'Athiti', sans-serif;
+  }
+  /* ใช้เฉพาะหัวข้อ */
+   h2, h3, h4, h5, h6 {
+    color : whitesmoke;
+    font-family: 'Athiti', sans-serif;
+  }
+  h1{
+    color : black;
+    font-family:  sans-serif;
+  }
+  
+  .txt-de-h1 {
+    color : black;
+    font-family: 'Athiti', sans-serif;
+  }
+
+  .txt-de-h2 {
+    color : black;
+    font-family: 'Athiti', sans-serif;
+  }
+
+  .txt-white {
+    color :whitesmoke;
+    font-family: 'Athiti', sans-serif;
+  }
+
+  
