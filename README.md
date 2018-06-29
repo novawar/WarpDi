@@ -5,8 +5,10 @@ You can view a live demo over at [Warpdi live Demo](https://warpdi.000webhostapp
 
 
 ## What's a Warpdi 
-
 The Warpdi is a community website project on PHP and use MySQL for Database  
+
+![image of docs](/docs/img_doc/Warpdi_Pic.png)
+
 ## Features
 **WarpDi has several major features:**
 - Authenticate users 
@@ -20,6 +22,5 @@ The Warpdi is a community website project on PHP and use MySQL for Database
 - Create verify email
 - Create forgot password
 - Create upload picture for website  
-- Page management articles for admin
-
+- Notification for articles 
 
