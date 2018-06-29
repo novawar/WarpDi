@@ -21,7 +21,7 @@ $CHECK_SESSION = isset($_SESSION['u_id']) ? $_SESSION['u_id'] : '';
     <link href="css/font.css" rel="stylesheet">
 
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
@@ -86,16 +86,16 @@ $CHECK_SESSION = isset($_SESSION['u_id']) ? $_SESSION['u_id'] : '';
             <div class="container">
                         <div class="row">
                             <div class="col-md-4 col-sm-6 text-center boxhead">    
-                            <a href="http://www.facbook.com/mildguitar" target="blank"><img class="rounded-circle img-fluid" alt="Responsive image" src="img/logo/facebook.png"  width="200" height="200"></a><br><br>
-                            <h2 class="card-title txt-de-h1"><a  href="http://www.facbook.com/mildguitar" target="blank">Facebook</a></h2> 
+                            <a href="https://www.facbook.com/mildguitar" target="blank"><img class="rounded-circle img-fluid" alt="Responsive image" src="img/logo/facebook.png"  width="200" height="200"></a><br><br>
+                            <h2 class="card-title txt-de-h1"><a  href="https://www.facbook.com/mildguitar" target="blank">Facebook</a></h2> 
                             </div>
                             <div class="col-md-4 col-sm-6 text-center boxhead">    
-                            <a href="http://www.instagram.com/nevermind_ld" target="blank"><img class="rounded-circle img-fluid" alt="Responsive image" src="img/logo/instagram.png"  width="200" height="200"></a><br><br>   
-                            <h2 class="card-title txt-de-h1"><a  href="http://www.instagram.com/nevermind_ld" target="blank">Instagram</a></h2>
+                            <a href="https://www.instagram.com/nevermind_ld" target="blank"><img class="rounded-circle img-fluid" alt="Responsive image" src="img/logo/instagram.png"  width="200" height="200"></a><br><br>   
+                            <h2 class="card-title txt-de-h1"><a  href="https://www.instagram.com/nevermind_ld" target="blank">Instagram</a></h2>
                             </div>
                             <div class="col-md-4 col-sm-6 text-center boxhead">    
-                            <a href="http://www.twitter.com/mildojodouy" target="blank"><img class="rounded-circle img-fluid" alt="Responsive image" src="img/logo/twitter.png"  width="200" height="200"></a><br><br>
-                            <h2 class="card-title txt-de-h1"><a  href="http://www.twitter.com/mildojodouy" target="blank">Twitter</a></h2>
+                            <a href="https://www.twitter.com/mildojodouy" target="blank"><img class="rounded-circle img-fluid" alt="Responsive image" src="img/logo/twitter.png"  width="200" height="200"></a><br><br>
+                            <h2 class="card-title txt-de-h1"><a  href="https://www.twitter.com/mildojodouy" target="blank">Twitter</a></h2>
                             </div>
                             <div class="col-md-4 col-sm-6 text-center boxhead"><br><br><br><br>  
                             <a href="mailto: stevemild1995@gmail.com" target="blank"><img class="rounded-circle img-fluid" alt="Responsive image" src="img/logo/mail.png"  width="200" height="200"></a><br><br>
