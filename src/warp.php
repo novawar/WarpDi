@@ -103,7 +103,7 @@ $CHECK_SESSION = isset($_SESSION['u_id']) ? $_SESSION['u_id'] : '';
                     $res = mysqli_query($con, $query);
                     $num = 1;
                     while ($row = mysqli_fetch_array($res)) { ?>
-                      <tr  class = "<?= ($num % 2 != 0 ? 'success' : '')  ?> clickable-row" data-href="/WarpDi/warp-view.php?request=<?php echo $row["topic_id"]; ?>">
+                      <tr  class = "<?= ($num % 2 != 0 ? 'success' : '')  ?> clickable-row" data-href="/warp-view.php?request=<?php echo $row["topic_id"]; ?>">
                         <td></td>
                         <td><?php echo $row["topic"]; ?></td>
                         <td><?php echo $row["category"]; ?></td>
